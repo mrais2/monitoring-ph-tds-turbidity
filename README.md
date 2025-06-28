@@ -48,3 +48,6 @@ float convertToPH(float voltage) {
   float c = 32.28;
   return m * voltage + c;
 }
+
+### 📸 Tampilan Dashboard Blynk
+![Dashboard Blynk](images/alat.jpeg)
