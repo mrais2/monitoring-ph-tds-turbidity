@@ -34,6 +34,9 @@ Sistem monitoring kualitas air menggunakan ESP32 yang membaca sensor **pH**, **T
   - Template ID, Template Name, dan Auth Token disesuaikan dengan akun kamu
   - Menggunakan event log: `blowdown_alert`, `chemical_alert`, dan `turbidity_alert`
 
+### 📸 Tampilan Dashboard Blynk
+![alat](image/alat.jpeg)
+
 ---
 
 ## 🧪 Kalibrasi dan Konversi
@@ -49,5 +52,4 @@ float convertToPH(float voltage) {
   return m * voltage + c;
 }
 
-### 📸 Tampilan Dashboard Blynk
-![Dashboard Blynk](image/alat.jpeg)
+
