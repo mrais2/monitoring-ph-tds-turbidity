@@ -50,4 +50,4 @@ float convertToPH(float voltage) {
 }
 
 ### 📸 Tampilan Dashboard Blynk
-![Dashboard Blynk](images/alat.jpeg)
+![Dashboard Blynk](image/alat.jpeg)
